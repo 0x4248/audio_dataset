@@ -4,3 +4,6 @@ This is a dataset of audio files for the purpose of training a machine learning 
 ## Contents
 - [radio_static](https://github.com/awesomelewis2007/audio_dataset/tree/master/audio/radio_static)
 - [birds](https://github.com/awesomelewis2007/audio_dataset/tree/master/audio/birds)
+
+# License
+This project is licenced by the UNLICENSE. See the [LICENCE](LICENCE) file for more information.
