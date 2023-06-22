@@ -1,7 +1,7 @@
 {
     "name": "audio_dataset",
     "description": "A dataset of audio files for the purpose of training a machine learning model to recognize audio files.",
-    "version": "1.0",
+    "version": "",
     "main_file": "none",
     "author": "Lewis Evans",
     "license": "Unlicence",
